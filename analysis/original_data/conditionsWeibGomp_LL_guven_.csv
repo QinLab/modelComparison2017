@@ -1,0 +1,519 @@
+"","genotype","mat","media","temp","n","avgLS","StddevLS","medianLS","gompShape","gompRate","gompLogLik","gompAIC","weibShape","weibScale","weibLogLik","weibAIC","delta_LL"
+"1","BY4741","MATa","YPD",30,7572,27.4627575277338,10.1502417162225,27,0.0838324752109333,0.0061713267321749,-28664.3396905031,57332.6793810061,2.93415797697049,30.7559442297749,-28264.0341522815,56532.068304563,400.305538221583
+"16","BY4742","MATalpha","0.05% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"22","BY4742","MATalpha","0.5% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"23","BY4742","MATalpha","0.1% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"70","tor1","MATalpha","YPD",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"92","sir2","MATalpha","YPD",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"156","tor1","MATa","YPD",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"162","sir2","MATa","YPD",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"187","BY4742","MATalpha","YPD + 10ng/ml cycloheximide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"190","BY4742","MATalpha","YPD + 50ng/ml cycloheximide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"193","BY4742","MATalpha","YPD + 100ng/ml cycloheximide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"244","BY4742","MATalpha","YPD",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"299","BY4742","MATalpha","3% Gly",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"304","BY4742","MATalpha","YPD + DMSO",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"305","BY4742","MATalpha","YPD + DMSO : Compound 144 (5uM)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"306","BY4742","MATalpha","YPD + DMSO : Compound 194 (50uM)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"307","BY4742","MATalpha","10% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"427","BY4742","MATalpha","YPD",25,0,0,0,0,0,0,0,0,0,0,0,0,0
+"429","BY4742","MATalpha","YPD",20,0,0,0,0,0,0,0,0,0,0,0,0,0
+"444","BY4742","MATalpha","YPD + SS20",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"445","BY4742","MATalpha","YPD + SS31",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"490","sir2","MATalpha","0.5% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"493","sir2","MATalpha","0.1% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"496","sir2","MATalpha","0.05% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"501","sir2","MATalpha","3% Gly",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"528","BY4741","MATa","0.05% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"533","BY4741","MATa","3% Gly",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"593","BY4742","MATalpha","YPD + DMSO only",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"595","BY4742","MATalpha","YPD + 2.5uM compound 144",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"597","BY4742","MATalpha","YPD + 5uM compound 144",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"599","BY4742","MATalpha","YPD + 10uM compound 144",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"601","BY4742","MATalpha","YPD + 20uM compound 144",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"603","BY4742","MATalpha","YPD + 40uM compound 144",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"605","BY4742","MATalpha","YPD + 80uM compound 144",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"607","BY4742","MATalpha","YPD + 160uM compound 144",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"609","BY4742","MATalpha","YPD + 320uM compound 144",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"635","BY4743","diploid","YPD",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"641","BY4743","Diploid","0.05% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"644","BY4743","diploid","0.05% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"651","BY4743","diploid","YPD + CLS80 Day 2 SC 2% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"652","BY4743","diploid","YPD + CLS80 Day 2 SC 2% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"653","BY4743","diploid","YPD + CLS80 Day 2 SC 0.05% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"654","BY4743","diploid","YPD + CLS80 Day 2 SC 0.05% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"655","BY4743","diploid","YPD + CLS80 Day 2 SC 0.05% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"656","BY4743","diploid","YPD + CLS80 Day 2 SC 2% D pH 6.0 Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"657","BY4743","diploid","YPD + CLS80 Day 2 SC 2% D pH 6.0 Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"658","BY4743","diploid","YPD + CLS80 Day 2 SC 2% D pH 6.0 Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"659","BY4743","diploid","YPD + CLS80 Day 2 YEPD Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"660","BY4743","diploid","YPD + CLS80 Day 2 YEPD Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"661","BY4743","diploid","YPD + CLS80 Day 2 YEPD Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"662","BY4743","diploid","YPD + CLS80 Day 4 SC 2% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"663","BY4743","diploid","YPD + CLS80 Day 4 SC 2% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"664","BY4743","diploid","YPD + CLS80 Day 4 SC 0.05% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"665","BY4743","diploid","YPD + CLS80 Day 4 SC 0.05% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"666","BY4743","diploid","YPD + CLS80 Day 4 SC 0.05% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"667","BY4743","diploid","YPD + CLS80 Day 4 SC 2% D pH 6.0 Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"668","BY4743","diploid","YPD + CLS80 Day 4 SC 2% D pH 6.0 Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"669","BY4743","diploid","YPD + CLS80 Day 4 SC 2% D pH 6.0 Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"670","BY4743","diploid","YPD + CLS80 Day 4 YEPD Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"671","BY4743","diploid","YPD + CLS80 Day 4 YEPD Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"672","BY4743","diploid","YPD + CLS80 Day 4 YEPD Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"673","BY4743","diploid","YPD + CLS80 Day 9 SC 2% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"674","BY4743","diploid","YPD + CLS80 Day 9 SC 2% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"675","BY4743","diploid","YPD + CLS80 Day 9 SC 0.05% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"676","BY4743","diploid","YPD + CLS80 Day 9 SC 0.05% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"677","BY4743","diploid","YPD + CLS80 Day 9 SC 0.05% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"678","BY4743","diploid","YPD + CLS80 Day 9 SC 2% D pH 6.0 Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"679","BY4743","diploid","YPD + CLS80 Day 9 SC 2% D pH 6.0 Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"680","BY4743","diploid","YPD + CLS80 Day 9 SC 2% D pH 6.0 Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"681","BY4743","diploid","YPD + CLS80 Day 9 YEPD Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"682","BY4743","diploid","YPD + CLS80 Day 9 YEPD Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"683","BY4743","diploid","YPD + CLS80 Day 9 YEPD Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"720","BY4743","diploid","YPD + CLS80 Day 16 SC 2% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"721","BY4743","diploid","YPD + CLS80 Day 16 SC 2% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"722","BY4743","diploid","YPD + CLS80 Day 16 SC 0.05% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"723","BY4743","diploid","YPD + CLS80 Day 16 SC 0.05% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"724","BY4743","diploid","YPD + CLS80 Day 16 SC 0.05% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"725","BY4743","diploid","YPD + CLS80 Day 16 SC 2% D pH 6.0 Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"726","BY4743","diploid","YPD + CLS80 Day 16 SC 2% D pH 6.0 Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"727","BY4743","diploid","YPD + CLS80 Day 16 SC 2% D pH 6.0 Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"728","BY4743","diploid","YPD + CLS80 Day 16 YEPD Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"729","BY4743","diploid","YPD + CLS80 Day 16 YEPD Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"730","BY4743","diploid","YPD + CLS80 Day 16 YEPD Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"741","BY4742","MATalpha","YPD+5nM halofuginone",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"744","BY4742","MATalpha","YPD+5uM halofuginone",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"747","BY4743","diploid","YPD + CLS80 Day 23 SC 2% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"748","BY4743","diploid","YPD + CLS80 Day 23 SC 2% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"749","BY4743","diploid","YPD + CLS80 Day 23 SC 0.05% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"750","BY4743","diploid","YPD + CLS80 Day 23 SC 0.05% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"751","BY4743","diploid","YPD + CLS80 Day 23 SC 0.05% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"752","BY4743","diploid","YPD + CLS80 Day 23 SC 2% D pH 6.0 Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"753","BY4743","diploid","YPD + CLS80 Day 23 SC 2% D pH 6.0 Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"754","BY4743","diploid","YPD + CLS80 Day 23 SC 2% D pH 6.0 Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"755","BY4743","diploid","YPD + CLS80 Day 23 YEPD Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"756","BY4743","diploid","YPD + CLS80 Day 23 YEPD Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"757","BY4743","diploid","YPD + CLS80 Day 23 YEPD Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"760","BY4742","MATalpha","0.05% D + SS31",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"765","BY4742","MATalpha","0.05% D + SS20",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"865","BY4743","diploid","Chemostat-control",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"868","BY4743","diploid","phosphate-limited",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"871","BY4743","diploid","sulfur-limited",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"874","BY4743","diploid","glucose-limited",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"923","BY4742","MATalpha","YPD + 12.5 ug/mL Doxycycline",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"928","BY4742","MATalpha","3% EtOH",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"930","sir2","MATalpha","3% EtOH",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"932","BY4742","MATalpha","2% Raff",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"934","sir2","MATalpha","2% Raff",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"965","BY4742","MATalpha","YPD + 62 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"972","BY4742","MATalpha","0.05%D +62 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"978","BY4742","MATalpha","3% Gly + 62 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"982","BY4742","MATalpha","0.005% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1025","BY4742","MATalpha","YPD + 5 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1027","sir2","MATalpha","YPD + 5 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1028","sir2","MATalpha","YPD + 62 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1029","BY4742","MATalpha","YPD + 100 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1031","sir2","MATalpha","YPD + 100 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1032","BY4742","MATalpha","YPD + 500 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1034","sir2","MATalpha","YPD + 500 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1035","BY4742","MATalpha","3% Gly + 5 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1037","sir2","MATalpha","3% Gly + 5 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1038","sir2","MATalpha","3% Gly + 62 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1039","BY4742","MATalpha","3% Gly + 100 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1041","sir2","MATalpha","3% Gly + 100 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1042","BY4742","MATalpha","3% Gly + 500 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1044","sir2","MATalpha","3% Gly + 500 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1082","BY4741","MATa","YPD + 62 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1085","BY4742","MATalpha","0.05% D + 62 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1088","BY4741","MATa","0.05% D + 62 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1092","BY4741","MATa","3% Gly + 62 uM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1095","BY4741","MATa","YPD + 62 μM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1103","BY4741","MATa","3% Gly + 62 μM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1111","BY4741","MATa","0.05% D + 62 μM CuSO4 * 5 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1150","BY4742","MATalpha","3% Gly + 62 uM CuSO4 * 5H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1152","BY4742","MATalpha","3% Gly + 62 uM CuCl2 * 2H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1154","BY4742","MATalpha","3% Gly + 62 uM MnSO4 * H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1156","BY4742","MATalpha","3% Gly + 62 uM MgSO4 * 7H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1158","BY4742","MATalpha","3% Gly + 62 uM CaCl2",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1160","BY4742","MATalpha","3% Gly + 62 uM FeSO4 * 7H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1162","BY4742","MATalpha","3% Gly + 62 uM ZnSO4 * 7H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1164","BY4742","MATalpha","3% Gly + 62 uM Al2(SO4)3 * 18 H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1252","BY4743","diploid","3% Gly",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1259","BY4743","diploid","3% Gly + 62 uM CuSO4 * 5H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1330","BY4742","MATalpha","YPD + 50 nM GL Compound A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1332","BY4742","MATalpha","YPD + 250 nM GL Compound A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1334","BY4742","MATalpha","YPD + 500 nM GL Compound A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1336","BY4742","MATalpha","YPD + 50 nM GL Compound B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1338","BY4742","MATalpha","YPD + 250 nM GL Compound B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1340","BY4742","MATalpha","YPD + 500 nM GL Compound B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1417","BY4742","MATalpha","SD 2% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1568","BY4742","MATalpha","YPD + 2mg/ml chloramphenicol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1572","BY4742","MATalpha","YPD + 1mg/ml chloramphenicol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1576","BY4742","MATalpha","YPD + 0.5mg/ml chloramphenicol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1580","BY4742","MATalpha","YPD + 30ng/ml cycloheximide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1581","BY4742","MATalpha","YPD + 35ng/ml cycloheximide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1582","BY4742","MATalpha","YPD + 40ng/ml cycloheximide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1583","BY4742","MATalpha","YPD + 45ng/ml cycloheximide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1584","BY4743","diploid","YPD + CLS82 Day 2 SC 2% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1585","BY4743","diploid","YPD + CLS82 Day 2 SC 2% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1586","BY4743","diploid","YPD + CLS82 Day 2 SC 0.05% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1587","BY4743","diploid","YPD + CLS82 Day 2 SC 0.05% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1588","BY4743","diploid","YPD + CLS82 Day 2 SC 0.05% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1589","BY4743","diploid","YPD + CLS82 Day 2 SC 2% D pH 6.0 Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1590","BY4743","diploid","YPD + CLS82 Day 2 SC 2% D pH 6.0 Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1591","BY4743","diploid","YPD + CLS82 Day 2 SC 2% D pH 6.0 Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1592","BY4743","diploid","YPD + CLS82 Day 2 YEPD Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1593","BY4743","diploid","YPD + CLS82 Day 2 YEPD Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1594","BY4743","diploid","YPD + CLS82 Day 2 YEPD Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1595","BY4743","diploid","YPD + CLS82 Day 4 SC 2% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1596","BY4743","diploid","YPD + CLS82 Day 4 SC 2% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1597","BY4743","diploid","YPD + CLS82 Day 4 SC 0.05% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1598","BY4743","diploid","YPD + CLS82 Day 4 SC 0.05% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1599","BY4743","diploid","YPD + CLS82 Day 4 SC 0.05% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1600","BY4743","diploid","YPD + CLS82 Day 4 SC 2% D pH 6.0 Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1601","BY4743","diploid","YPD + CLS82 Day 4 SC 2% D pH 6.0 Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1602","BY4743","diploid","YPD + CLS82 Day 4 SC 2% D pH 6.0 Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1603","BY4743","diploid","YPD + CLS82 Day 4 YEPD Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1604","BY4743","diploid","YPD + CLS82 Day 4 YEPD Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1605","BY4743","diploid","YPD + CLS82 Day 4 YEPD Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1606","BY4742","MATalpha","YPD + 0.1 mM AICAR",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1607","BY4742","MATalpha","YPD + 0.25 mM AICAR",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1608","BY4742","MATalpha","YPD + 0.5 mM AICAR",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1609","BY4742","MATalpha","YPD + 1.0 mM AICAR",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1611","BY4742","MATalpha","YPD + 1mM DDS",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1612","BY4742","MATalpha","YPD + 2mM DDS",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1613","BY4742","MATalpha","YPD + 4mM DDS",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1614","BY4742","MATalpha","YPD + 10uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1615","BY4742","MATalpha","YPD + 1mM DDS + 10uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1616","BY4742","MATalpha","YPD + 2mM DDS + 10uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1617","BY4742","MATalpha","YPD + 4mM DDS + 10uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1618","BY4742","MATalpha","YPD + 20uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1619","BY4742","MATalpha","YPD + 1mM DDS + 20uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1620","BY4742","MATalpha","YPD + 2mM DDS + 20uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1621","BY4742","MATalpha","YPD + 4mM DDS + 20uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1622","BY4743","diploid","YPD + CLS82 Day 9 SC 2% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1623","BY4743","diploid","YPD + CLS82 Day 9 SC 2% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1624","BY4743","diploid","YPD + CLS82 Day 9 SC 0.05% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1625","BY4743","diploid","YPD + CLS82 Day 9 SC 0.05% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1626","BY4743","diploid","YPD + CLS82 Day 9 SC 0.05% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1627","BY4743","diploid","YPD + CLS82 Day 9 SC 2% D pH 6.0 Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1628","BY4743","diploid","YPD + CLS82 Day 9 SC 2% D pH 6.0 Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1629","BY4743","diploid","YPD + CLS82 Day 9 SC 2% D pH 6.0 Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1630","BY4743","diploid","YPD + CLS82 Day 9 YEPD Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1631","BY4743","diploid","YPD + CLS82 Day 9 YEPD Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1632","BY4743","diploid","YPD + CLS82 Day 9 YEPD Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1633","BY4743","diploid","0.5% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1680","BY4743","diploid","YPD + CLS82 Day 16 SC 2% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1681","BY4743","diploid","YPD + CLS82 Day 16 SC 2% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1682","BY4743","diploid","YPD + CLS82 Day 16 SC 0.05% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1683","BY4743","diploid","YPD + CLS82 Day 16 SC 0.05% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1684","BY4743","diploid","YPD + CLS82 Day 16 SC 0.05% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1685","BY4743","diploid","YPD + CLS82 Day 16 SC 2% D pH 6.0 Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1686","BY4743","diploid","YPD + CLS82 Day 16 SC 2% D pH 6.0 Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1687","BY4743","diploid","YPD + CLS82 Day 16 SC 2% D pH 6.0 Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1688","BY4743","diploid","YPD + CLS82 Day 16 YEPD Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1689","BY4743","diploid","YPD + CLS82 Day 16 YEPD Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1690","BY4743","diploid","YPD + CLS82 Day 16 YEPD Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1711","BY4743","diploid","YPD + CLS82 Day 23 SC 2% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1712","BY4743","diploid","YPD + CLS82 Day 23 SC 2% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1713","BY4743","diploid","YPD + CLS82 Day 23 SC 0.05% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1714","BY4743","diploid","YPD + CLS82 Day 23 SC 0.05% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1715","BY4743","diploid","YPD + CLS82 Day 23 SC 0.05% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1716","BY4743","diploid","YPD + CLS82 Day 23 SC 2% D pH 6.0 Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1717","BY4743","diploid","YPD + CLS82 Day 23 SC 2% D pH 6.0 Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1718","BY4743","diploid","YPD + CLS82 Day 23 SC 2% D pH 6.0 Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1719","BY4743","diploid","YPD + CLS82 Day 23 YEPD Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1720","BY4743","diploid","YPD + CLS82 Day 23 YEPD Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1721","BY4743","diploid","YPD + CLS82 Day 23 YEPD Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1805","tor1","MATalpha","3% Gly",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1809","BY4742","MATalpha","YPD + 1 ng/ml rapamycin",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1811","tor1","MATalpha","YPD + 1 ng/ml rapamycin",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1814","BY4742","MATalpha","YPD + 5 ng/ml rapamycin",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1816","tor1","MATalpha","YPD + 5 ng/ml rapamycin",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1819","BY4742","MATalpha","YPD + 10 ng/ml rapamycin",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1821","tor1","MATalpha","YPD + 10 ng/ml rapamycin",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1986","BY4742","MATalpha","YPD + 0.002% ergosterol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1989","BY4742","MATalpha","YPD + 0.01% ergosterol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2047","BY4742","MATalpha","YPD + 0.2 mM caffeine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2048","BY4742","MATalpha","YPD + 0.5 mM caffeine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2049","BY4742","MATalpha","YPD + 2 mM caffeine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2050","BY4742","MATalpha","YPD + 5 mM caffeine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2051","BY4742","MATalpha","YPD + 20 mM caffeine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2052","BY4742","MATalpha","YPD + 50 mM caffeine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2066","BY4742","MATalpha","YPD + 50/50 etoh/Tween 80",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2102","tor1","MATalpha","0.05% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2167","BY4741","MATa","YPD + 0.2 mM caffeine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2169","BY4741","MATa","YPD + 0.5 mM caffeine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2171","BY4741","MATa","YPD + 2 mM caffeine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2173","BY4741","MATa","YPD + 5 mM caffeine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2175","BY4741","MATa","YPD + 20 mM caffeine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2474","BY4741","MATalpha","YPD",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2479","BY4741","MATalpha","0.05% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2627","BY4743","Diploid","YPD",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2688","BY4742","MATalpha","1.0% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2706","BY4741","MATa","SD 2% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2708","tor1","MATalpha","YPD no 4C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2715","sir2","MATalpha","YPD no 4C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2718","BY4741","MATa","YPD no 4C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2724","BY4742","MATalpha","YPD+1mM paraquat",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2726","BY4742","MATalpha","YPD (55C 15 min HS to o/n prior)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2728","BY4742","MATalpha","YPD (5mM paraquat to o/n prior)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2730","BY4742","MATalpha","YPD (2.5uM tunicamycin to o/n prior)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2732","BY4742","MATalpha","YPD (0.01% MMS to o/n prior)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2734","BY4742","MATalpha","YPD (5mM H2O2 to o/n prior)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2736","BY4742","MATalpha","YPD + 0.5s UV control",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2738","BY4742","MATalpha","YPD + 0.5s UV",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2743","BY4742","MATalpha","YPD+ 0.02 ug/ml CsA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2747","BY4742","MATalpha","YPD+ 0.04 ug/ml CsA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2751","BY4742","MATalpha","YPD+ 0.1 ug/ml CsA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2774","BY4741","MATa","YPD+0.2mM Gemfibrozil(.05mg/mL)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2775","BY4741","MATa","YPD+0.4mM Gemfibrozil(.1mg/mL)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2776","BY4741","MATa","YPD+0.8mM Gemfibrozil(.2mg/mL)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2777","BY4741","MATa","YPD+1.4mM Gemfibrozil(.35mg/mL)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2778","BY4741","MATa","YPD+2.0mM Gemfibrozil(.5mg/mL)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2821","BY4742","MATalpha","2% Gal",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2828","BY4742","MATalpha","YPD + sir2 nearby",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2829","BY4742","MATalpha","YPD + WT nearby",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2830","BY4742","MATalpha","YPD + rad52 nearby",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2831","BY4743","diploid","YPD + Day 17 CLS in SC 2%, MDG from SPM",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2832","BY4743","diploid","YPD + Day 17 CLS in SC 2%, single cells from SPM",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2833","BY4743","diploid","YPD + Day 17 CLS in SC 2%, single cells from H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2834","BY4743","diploid","YPD + Day 17 CLS in YPD, single cells from SPM",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2835","BY4743","diploid","YPD + Day 17 CLS in YPD, single cells from H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2836","BY4742","MATalpha","YPD + Day 17 CLS in SC 2%, single cells from SPM",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2837","BY4742","MATalpha","YPD + Day 17 CLS in SC 2%, single cells from H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2838","BY4742","MATalpha","YPD + Day 17 CLS in YPD, single cells from SPM",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2839","BY4742","MATalpha","YPD + Day 17 CLS in YPD, single cells from H2O",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2840","BY4742","MATalpha","SD 3% Gly",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2843","BY4742","MATalpha","SD 3% Gly 0x MnSO4",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2846","BY4742","MATalpha","SD 0.05% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2849","BY4742","MATalpha","SD 0.05% D 0x MnSO4",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2852","BY4742","MATalpha","SD 2% D 0x MnSO4",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2913","BY4741","MATa","YPD+1.25% Ethanol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2915","sir2","MATa","YPD+0.4mM Gemfibrozil(.1mg/mL)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2937","BY4741","MATa","YEPD + 1mM DDS",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2939","BY4742","MATalpha","YEPD + 1mM DDS",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2941","BY4741","MATa","YEPD + 2mM DDS",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2943","BY4742","MATalpha","YEPD + 2mM DDS",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2945","BY4741","MATa","YEPD + 4mM DDS",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2947","BY4742","MATalpha","YEPD + 4mM DDS",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2949","BY4741","MATa","YEPD + 10uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2951","BY4742","MATalpha","YEPD + 10uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2953","BY4741","MATa","YEPD + 1mM DDS + 10uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2955","BY4742","MATalpha","YEPD + 1mM DDS + 10uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2957","BY4741","MATa","YEPD + 2mM DDS + 10uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2959","BY4742","MATalpha","YEPD + 2mM DDS + 10uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2961","BY4741","MATa","YEPD + 4mM DDS + 10uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2963","BY4742","MATalpha","YEPD + 4mM DDS + 10uM PABA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2967","BY4742","MATalpha","3% Gly + 0.237 mM MnSO4",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2972","BY4742","MATalpha","0.05% D + 0.237 mM MnSO4",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2975","BY4742","MATalpha","YPD + 0.237 mM MnSO4",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3005","BY4741","MATa","YPD + Day 2 SC 2% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3006","BY4741","MATa","YPD + Day 2 SC 2% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3010","BY4741","MATa","YPD + Day 2 SC 0.05% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3011","BY4741","MATa","YPD + Day 2 SC 0.05% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3012","BY4741","MATa","YPD + Day 2 SC 0.05% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3016","BY4741","MATa","YPD + Day 2 SC pH6.0 D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3017","BY4741","MATa","YPD + Day 2 SC pH6.0 D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3018","BY4741","MATa","YPD + Day 2 SC pH6.0 D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3022","BY4741","MATa","YPD + Day 17 SC 2% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3023","BY4741","MATa","YPD + Day 17 SC 2% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3024","BY4741","MATa","YPD + Day 17 SC 2% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3028","BY4741","MATa","YPD + Day 17 SC 0.05% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3029","BY4741","MATa","YPD + Day 17 SC 0.05% D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3030","BY4741","MATa","YPD + Day 17 SC 0.05% D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3034","BY4741","MATa","YPD + Day 17 SC pH6.0 D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3035","BY4741","MATa","YPD + Day 17 SC pH6.0 D Replicate B",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3036","BY4741","MATa","YPD + Day 17 SC pH6.0 D Replicate C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3040","BY4741","MATa","YPD + Day 2 SC 2% D Replicate A No Zymolyase",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3041","BY4741","MATa","YPD + Day 2 SC 2% D Replicate B No Zymolyase",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3042","BY4741","MATa","YPD + Day 2 SC 2% D Replicate C No Zymolyase",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3047","tor1","MATalpha","YPD+1.25% Ethanol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3050","BY4742","MATalpha","YPD+0.4mM Gemfibrozil(.1mg/mL)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3055","tor1","MATalpha","YPD+0.4mM Gemfibrozil(.1mg/mL)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3070","BY4742","MATalpha","YPD (w/ spent sir2 media)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3071","BY4742","MATalpha","YPD (w/ spent WT media)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3072","BY4742","MATalpha","YPD (w/ spent sir2 media + proteinase K)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3082","BY4743","diploid","YPD + Day 2 SC 2% D Replicate A Low DiOC",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3083","BY4743","diploid","YPD + Day 2 SC 2% D Replicate B High DiOC",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3084","BY4743","diploid","YPD + Day 26 SC 2% D Replicate A Low DiOC",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3085","BY4743","diploid","YPD + Day 26 SC 2% D Replicate B Low DiOC",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3086","BY4743","diploid","YPD + Day 26 SC 2% D Replicate A High DiOC",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3087","BY4743","diploid","YPD + Day 26 SC 2% D Replicate B High DiOC",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3098","BY4742","MATalpha","YPD+0.2mM Acetoine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3099","BY4742","MATalpha","YPD+0.4mM Acetoine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3100","BY4742","MATalpha","YPD+1.0mM Acetoine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3106","BY4742","MATalpha","SD 2% D 0.1x MnSO4",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3108","BY4742","MATalpha","SD 0.05% D 0.1x MnSO4",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3110","BY4742","MATalpha","SD 3% Gly 0.1x MnSO4",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3170","BY4743","diploid","YPD + Day 2 SC 2% D Replicate A High DiOC",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3171","BY4743","diploid","YPD + Day 2 SC 2% D Replicate A All DiOC",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3172","BY4743","diploid","YPD + Day 2 SC 2% D Replicate B Low DiOC",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3173","BY4743","diploid","YPD + Day 2 SC 2% D Replicate B All DiOC",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3174","BY4743","diploid","YPD + Day 26 SC 2% D Replicate A All DiOC",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3175","BY4743","diploid","YPD + Day 26 SC 2% D Replicate B All DiOC",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3176","BY4743","diploid","YPD + Day 2 SC 2% D Replicate A Low H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3177","BY4743","diploid","YPD + Day 2 SC 2% D Replicate A High H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3178","BY4743","diploid","YPD + Day 2 SC 2% D Replicate A All H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3179","BY4743","diploid","YPD + Day 2 SC 2% D Replicate B Low H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3180","BY4743","diploid","YPD + Day 2 SC 2% D Replicate B High H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3181","BY4743","diploid","YPD + Day 2 SC 2% D Replicate B All H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3182","BY4743","diploid","YPD + Day 26 SC 2% D Replicate A Low H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3183","BY4743","diploid","YPD + Day 26 SC 2% D Replicate A All H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3184","BY4743","diploid","YPD + Day 26 SC 2% D Replicate B Low H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3185","BY4743","diploid","YPD + Day 26 SC 2% D Replicate B All H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3188","BY4742","MATalpha","YPD",37,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3192","BY4742","MATalpha","3% Gly",37,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3210","BY4741","MATa","SD  0.1% DMSO 5mM Nicotinamide 0.5uM C1-5",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3211","BY4741","MATa","SD  0.1% DMSO 5mM Nicotinamide 1.0uM C1-5",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3212","BY4741","MATa","SD  0.1% DMSO 5mM Nicotinamide 5.0uM C1-5",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3213","tor1","MATalpha","SD 2% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3222","BY4742","MATalpha","SD 2% Potasium Acetate",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3223","tor1","MATalpha","SD 2% Potasium Acetate",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3246","BY4742","MATalpha","3% Gly + 1600 uM Paraquat",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3247","BY4742","MATalpha","3% Gly + 800 uM Paraquat",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3248","BY4742","MATalpha","3% Gly + 400 uM Paraquat",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3249","BY4742","MATalpha","3% Gly + 200 uM Paraquat",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3250","BY4742","MATalpha","3% Gly + 100 uM Paraquat",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3251","BY4742","MATalpha","3% Gly + 50 uM Paraquat",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3252","BY4742","MATalpha","3% Gly + 25 uM Paraquat",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3253","BY4742","MATalpha","3% Gly + 12.5 uM Paraquat",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3254","BY4742","MATalpha","3% Gly + 6.25 uM Paraquat",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3255","BY4742","MATalpha","3% Gly + 3.125 uM Paraquat",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3256","BY4742","MATalpha","3% Gly + 1.6 uM Paraquat",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3257","BY4742","MATalpha","3% Gly + 0.16 uM Paraquat",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3268","BY4741","MATa","3% Gly+1.25% Ethanol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3269","BY4741","MATa","3% Gly+0.4mM Gemfibrozil(.1mg/mL)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3270","BY4741","MATa","2% Gal+1.25% Ethanol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3271","BY4741","MATa","2% Gal+0.4mM Gemfibrozil(.1mg/mL)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3272","BY4743","diploid","YPD o/n + SPM, tetrads",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3273","BY4743","diploid","YPD o/n + SPM, single cells",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3274","BY4743","diploid","YPD o/n + H2O, single cells",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3276","BY4742","MATalpha","YPD o/n + SPM, single cells",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3277","BY4742","MATalpha","YPD o/n + H2O, single cells",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3278","BY4742","MATalpha","YPD (irrigated water)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3279","tor1","MATalpha","2% Gal",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3288","BY4742","MATalpha","YPD+ 0.002 ug/ml BC556",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3289","BY4742","MATalpha","YPD+ 0.01 ug/ml BC556",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3290","BY4742","MATalpha","YPD+ 0.02 ug/ml BC556",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3291","BY4742","MATalpha","YPD+ 0.04 ug/ml BC556",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3292","BY4742","MATalpha","YPD+ 0.1 ug/ml BC556",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3296","BY4742","MATalpha","3% Gly Pre Adapted",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3297","tor1","MATalpha","3% Gly Pre Adapted",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3303","tor1","MATalpha","2% Raff",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3327","BY4742","MATalpha","10mM Carnosine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3328","BY4742","MATalpha","20mM Carnosine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3329","BY4742","MATalpha","30mM Carnosine",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3336","BY4742","MATalpha","YPD + 5 mM Nicotinamide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3337","BY4743","diploid","YPD + Day 2 SC 2% D Low DiOC6",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3338","BY4743","diploid","YPD + Day 2 SC 2% D High DiOC6",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3339","BY4743","diploid","YPD + Day 2 SC 2% D All DiOC6",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3340","BY4743","diploid","YPD + Day 16 SC 2% D Low DiOC6",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3341","BY4743","diploid","YPD + Day 16 SC 2% D All DiOC6",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3342","BY4743","diploid","YPD + Day 16 SC 2% D Live + 10uM CCCP 2 day",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3343","BY4743","diploid","YPD + Day 26 SC 2% D Low DiOC6",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3344","BY4743","diploid","YPD + Day 26 SC 2% D All DiOC6",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3345","BY4743","diploid","YPD + Day 2 SC 2% D Low H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3346","BY4743","diploid","YPD + Day 2 SC 2% D High H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3347","BY4743","diploid","YPD + Day 2 SC 2% D All H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3348","BY4743","diploid","YPD + Day 16 SC 2% D Low H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3349","BY4743","diploid","YPD + Day 16 SC 2% D All H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3350","BY4743","diploid","YPD + Day 26 SC 2% D Low H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3351","BY4743","diploid","YPD + Day 26 SC 2% D All H2DCFDA",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3356","BY4742","MATalpha","3% Gly 37C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3364","BY4741","MATa","SD 0.1% DMSO 5mM Nicotinamide 1.0uM C1-5",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3370","BY4742","MATalpha","YPD+ 10uM MG132",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3520","BY4742","MATalpha","YPD + 100 uM salubrinol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3522","BY4742","MATalpha","0.05% D + 100 uM salubrinol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3524","BY4742","MATalpha","YPD + DAB",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3528","BY4742","MATalpha","0.05% D + DAB",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3739","sir2","MATalpha","YPD + 5 mM Nicotinamide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3745","BY4742","MATalpha","YPD + 10 uM resveratrol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3746","BY4742","MATalpha","YPD + 10 uM EtOH",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4094","BY4742","MATalpha","YPD + 100 uM EtOH",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4096","BY4742","MATalpha","YPD + 100 uM DMSO",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4098","BY4742","MATalpha","YPD + 10 uM resveratrol + 100 uM EtOH",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4100","BY4742","MATalpha","YPD + 10 uM resveratrol + 100 uM DMSO",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4495","BY4742","MATalpha","YPD + 10 ng/mL cycloheximide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4496","BY4742","MATalpha","YPD + 25 ng/mL cycloheximide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4497","BY4742","MATalpha","YPD + 50 ng/mL cycloheximide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4498","BY4742","MATalpha","YPD + 100 ng/mL cycloheximide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4509","BY4742","MATalpha","YPD + 500 uM Nicotinamide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4513","BY4742","MATalpha","YPD + 10 ng/mL rapamycin",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"5274","BY4741","MATa","YPD + DAB",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"6099","BY4742","MATalpha","YPD + 1M sorbitol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"6203","BY4742","MATalpha","0.01% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"6342","BY4741","MATa","YPD + 25 ng/mL cycloheximide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"6453","BY4742","MATalpha","1% Turgitol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"6455","BY4742","MATalpha","0.03% Oleate",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"6457","BY4742","MATalpha","0.03% palmitoleate",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"6948","BY4742","MATalpha","AH 0.5% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"6985","sir2","MATalpha","SD 2% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7067","BY4742","MATalpha","AH + ILVK + HUM 0.05%",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7078","BY4742","MATalpha","min + VILKMHU 0.05% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7088","BY4742","MATalpha","YPD + 0.5 ug/mL tunicamycin",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7132","sir2","MATalpha","SD -URA 2% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7142","BY4742","MATalpha","YPD + 100 uM Nicotinamide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7145","BY4742","MATalpha","YPD + 1 mM Nicotinamide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7167","sir2","MATalpha","2% Gal",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7374","BY4742","MATalpha","YPD + met final conc 20mg/L",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7378","BY4742","MATalpha","YPD + 100 mg/mL glutamic acid",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7403","BY4742","MATalpha","YPD + 0.05 ug/mL tunicamycin",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7404","BY4742","MATalpha","YPD + 0.1 ug/mL tunicamycin",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7405","BY4742","MATalpha","YPD + 0.25 ug/mL tunicamycin",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7450","BY4742","MATalpha","YPD + NR",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7451","BY4742","MATalpha","YPD + 5 mM Nicotinamide + 1 uM S1-6",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7452","BY4742","MATalpha","YPD + 1 uM S3-5",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7453","sir2","MATalpha","YPD + 1 uM S3-5",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7455","BY4742","MATalpha","YPD + 1 uM S1-6",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7456","sir2","MATalpha","YPD + 1 uM S1-6",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7496","BY4742","MATalpha","YPD + 10 mM L-MSX",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7497","BY4742","MATalpha","YPD + 1 mM L-MSX",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7498","BY4742","MATalpha","YPD + 100 uM L-MSX",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7499","BY4742","MATalpha","YPD + 50 uM L-MSX",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7578","BY4742","MATalpha","YPD + Citrate buffer PH 7.0",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7579","BY4742","MATalpha","YPD + Citrate buffer PH 5.0",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7580","BY4742","MATalpha","YPD + Citrate buffer PH 3.0",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7581","BY4742","MATalpha","YPD + MES buffer PH 6.0",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7598","BY4742","MATalpha","YPD + 2.5 mM L-MSX",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7658","BY4742","MATalpha","YPD + 25 mM isonicotinamide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7659","BY4742","MATalpha","YPD + 1 ng/mL rapamycin",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7660","BY4742","MATalpha","YPD + 100 pg/mL rapamycin",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7769","BY4742","MATalpha","YPD + 0.1 ug/ml Doxycycline",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7771","BY4742","MATalpha","YPD + 0.2 ug/ml Doxycycline",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7777","BY4742","MATalpha","YPD + 10 mM CaCl2",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7783","BY4742","MATalpha","0.05% D + 10 mM CaCl2",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7857","BY4742","MATalpha","YPD + 50 uM Nicotinamide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7861","BY4742","MATalpha","0.02% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7943","BY4742","MATalpha","YEP + No carbon source",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"8188","BY4742","MATalpha","0.05% D + 5mM Nicotinamide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"8204","BY4742","MATalpha","YPD",40,0,0,0,0,0,0,0,0,0,0,0,0,0
+"8209","BY4742","MATalpha","0.05% D + 5 mM Nicotinamide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"8480","BY4742","MATalpha","YPD+DAB",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"8592","BY4742","MATalpha","1% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9130","BY4743","diploid","YPD + CLS80 Day 2 SC 2% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9131","BY4743","diploid","YPD + CLS80 Day 4 SC 2% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9132","BY4743","diploid","YPD + CLS80 Day 9 SC 2% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9133","BY4743","diploid","YPD + CLS80 Day 16 SC 2% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9134","BY4743","diploid","YPD + CLS80 Day 23 SC 2% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9136","BY4743","diploid","YPD + CLS82 Day 2 SC 2% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9137","BY4743","diploid","YPD + CLS82 Day 4 SC 2% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9138","BY4742","MATalpha","YPD + carrier only",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9139","BY4743","diploid","YPD + CLS82 Day 9 SC 2% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9141","BY4743","diploid","YPD + CLS82 Day 16 SC 2% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9142","BY4743","diploid","YPD + CLS82 Day 23 SC 2% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9149","BY4742","MATalpha","YPD no 4C",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9150","BY4742","MATalpha","YPD+ DMSO (2%)",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9152","BY4741","MATa","YEPD + carrier only",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9153","BY4742","MATalpha","YEPD + carrier only",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9154","BY4741","MATa","YPD + Day 2 SC 2% D Replicate A",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9155","BY4742","MATalpha","YPD+1.25% Ethanol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9159","BY4741","MATa","SD  0.1% DMSO 5mM Nicotinamide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9160","BY4742","MATalpha","YPD+ DMSO",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9161","BY4741","MATa","SD 0.1% DMSO 5mM Nicotinamide",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9162","BY4742","MATalpha","YPD+DMSO",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9164","BY4742","MATalpha","AH 2% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9165","BY4742","MATalpha","AH + ILVK + HUM 2%",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9166","BY4742","MATalpha","min + VILKMHU 2% D",30,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9171","BY4742","MATalpha","SDC Brenner lab protocol",30,0,0,0,0,0,0,0,0,0,0,0,0,0
